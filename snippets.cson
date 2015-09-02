@@ -6,3 +6,9 @@
                 ${2:/* code */}
             }
                 """
+
+    'sprintf':
+        'prefix': 'sprintf'
+        'body': """
+            sprintf(${1:str}, ${2:format}, ${3:vars});
+                """
