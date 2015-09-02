@@ -17,4 +17,4 @@ HOW TO SEND PULL REQUESTS
     UPDATE YOUR FORK FROM ORIGINAL REPO: 
     git fetch https://github.com/ColasBroux/Atom-Snippets.git
     git checkout master
-    git marge FETCH_HEAD
+    git merge FETCH_HEAD
