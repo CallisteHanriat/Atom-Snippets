@@ -7,13 +7,12 @@
             }
                 """
 
-<<<<<<< HEAD
     'sprintf':
         'prefix': 'sprintf'
         'body': """
             sprintf(${1:str}, ${2:format}, ${3:vars});
                 """
-=======
+
     'starting c prog':
         'prefix': 'strt'
         'body': """
@@ -23,5 +22,4 @@
             int main(int argc, char* arg[]) {
     	           return EXIT_SUCCESS;
              }
-             """
->>>>>>> 0bf949e0d729360e42922fbab1ec265e5d904c3e
+                """
