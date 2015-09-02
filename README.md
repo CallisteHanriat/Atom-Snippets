@@ -7,8 +7,11 @@ Don't hesitate to do a pull request ! It would be great !
 HOW TO SEND PULL REQUESTS
 -----------------------------
 1)  fork it;
+
 2)  clone your forked project on your computer (if you want);
+
 3)  push your modifications;
+
 4)  send a pull request to us;
 
     UPDATE YOUR FORK FROM ORIGINAL REPO: 
