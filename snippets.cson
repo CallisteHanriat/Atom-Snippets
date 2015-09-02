@@ -6,14 +6,14 @@
                 ${2:/* code */}
             }
                 """
-'.source.c':
-  'starting c prog':
-    'prefix': 'strt'
-    'body':"""
-      #include <stdio.h>
-      #include <stdlib.h>
 
-      int main(int argc, char* arg[]) {
-    	   return EXIT_SUCCESS;
-       }
-      """
+    'starting c prog':
+        'prefix': 'strt'
+        'body': """
+            #include <stdio.h>
+            #include <stdlib.h>
+
+            int main(int argc, char* arg[]) {
+    	           return EXIT_SUCCESS;
+             }
+             """
